@@ -1,0 +1,47 @@
+
+saved_acquisition_dir = ../saved_acquisition/cyl_1/d20mm/9points
+
+reference_pulse_file = ../data/ref_pulse-40MHz
+
+#
+upsampling_factor = 32
+
+# This is the base element of the central group.
+base_element = 48
+
+# element_1 and element_2 are the elements nearest to the group center.
+element_1 = 15
+element_2 = 16
+
+#element_1a = 12
+#element_2a = 19
+#element_1a = 11
+#element_2a = 20
+#element_1a = 10
+#element_2a = 21
+#element_1a = 9
+#element_2a = 22
+#element_1a = 8
+#element_2a = 23
+#element_1a = 7
+#element_2a = 24
+#element_1a = 6
+#element_2a = 25
+element_1a = 5
+element_2a = 26
+#element_1a = 4
+#element_2a = 27
+#element_1a = 3
+#element_2a = 28
+#element_1a = 2
+#element_2a = 29
+#element_1a = 1
+#element_2a = 30
+#element_1a = 0
+#element_2a = 31
+
+# (m)
+distance = 20.02e-3
+
+# The excitation waveform's peak is reached at peakOffset periods (center freq.) after the start time.
+peak_offset = 3.03

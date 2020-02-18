@@ -1,0 +1,5 @@
+
+method = cylinder_detection_and_fermat_speed_1_measurement
+
+main_config_file = config-main.txt
+method_config_file = config-speed_1_measurement.txt

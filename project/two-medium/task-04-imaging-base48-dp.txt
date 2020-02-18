@@ -1,0 +1,7 @@
+
+method = cylinder_detection_and_fermat_two_medium_imaging_vectorial_dp
+
+main_config_file = config-main.txt
+method_config_file = config-imaging-base48.txt
+grid_config_file = config-grid-final-base48.txt
+coherence_factor_config_file = config-coherence_factor-final.txt

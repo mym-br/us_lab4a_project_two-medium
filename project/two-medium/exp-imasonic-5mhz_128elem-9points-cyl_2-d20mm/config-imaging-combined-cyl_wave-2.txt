@@ -1,0 +1,39 @@
+
+saved_acquisition_dir = ../saved_acquisition/cyl_2/d20mm/9points
+
+output_dir = output
+
+image_dir = output-combined_cyl_wave_2
+
+#rx_apod_file = ../data/apod32_trapez_7-18-7
+rx_apod_file = ../data/apod32_trapez_8-16-8
+#rx_apod_file = ../data/apod32_trapez_9-14-9
+#rx_apod_file = ../data/apod32_rectangular
+
+#
+upsampling_factor = 4
+
+# The excitation waveform's peak is reached at peakOffset periods (center freq.) after the start time.
+peak_offset = 3.03
+
+# Number of wavelengths (at f_c).
+max_fermat_block_size = 10
+
+# (m)
+#normalization_min_z = 25.0e-3
+normalization_min_z = 30.0e-3
+
+#
+num_base_elem_steps = 9
+
+# One wavelength divided by this number (at f_c).
+interface_step_div = 4.0
+
+# (degree)
+interface_angle_1 = -170
+
+# (degree)
+interface_angle_2 = -10
+
+#
+tx_element = 15

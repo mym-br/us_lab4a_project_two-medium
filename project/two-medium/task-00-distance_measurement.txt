@@ -1,0 +1,5 @@
+
+method = cylinder_detection_and_fermat_distance_measurement
+
+main_config_file = config-main.txt
+method_config_file = config-distance_measurement.txt

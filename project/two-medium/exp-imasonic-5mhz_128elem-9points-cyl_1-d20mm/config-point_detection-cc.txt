@@ -1,0 +1,12 @@
+
+saved_acquisition_dir = ../saved_acquisition/cyl_1/d20mm/9points
+
+output_dir = output
+
+reference_pulse_file = ../data/ref_pulse-40MHz
+
+#
+upsampling_factor = 4
+
+#
+num_base_elem_steps = 9

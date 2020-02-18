@@ -1,0 +1,7 @@
+
+method = cylinder_detection_and_fermat_point_detection_sp
+
+main_config_file = config-main.txt
+method_config_file = config-point_detection-peak.txt
+grid_config_file = config-grid-point_detection.txt
+coherence_factor_config_file = config-coherence_factor-point_detection-peak.txt

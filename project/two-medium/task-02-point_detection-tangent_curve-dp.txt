@@ -1,0 +1,5 @@
+
+method = cylinder_detection_and_fermat_point_detection_tangent_curve_dp
+
+main_config_file = config-main.txt
+method_config_file = config-point_detection-tangent_curve.txt

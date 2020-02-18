@@ -1,0 +1,5 @@
+
+saved_acquisition_dir = ../saved_acquisition/cyl_1/d20mm/9points
+
+#
+num_base_elem_steps = 9

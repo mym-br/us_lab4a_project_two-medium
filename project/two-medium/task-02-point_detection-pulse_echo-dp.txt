@@ -1,0 +1,5 @@
+
+method = cylinder_detection_and_fermat_point_detection_ccbf_pulse_echo_dp
+
+main_config_file = config-main.txt
+method_config_file = config-point_detection-pulse_echo.txt

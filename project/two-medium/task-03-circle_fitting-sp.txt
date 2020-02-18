@@ -1,0 +1,5 @@
+
+method = cylinder_detection_and_fermat_circle_fitting_sp
+
+main_config_file = config-main.txt
+method_config_file = config-circle_fitting.txt

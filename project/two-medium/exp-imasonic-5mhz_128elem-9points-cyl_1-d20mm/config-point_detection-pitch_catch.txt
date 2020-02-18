@@ -1,0 +1,49 @@
+
+saved_acquisition_dir = ../saved_acquisition/cyl_1/d20mm/9points
+
+output_dir = output
+
+reference_pulse_file = ../data/ref_pulse-40MHz
+
+#
+upsampling_factor = 4
+
+#
+num_base_elem_steps = 9
+
+#
+tx_element = 15
+
+#first_rx_element = 14
+#last_rx_element = 16
+#first_rx_element = 13
+#last_rx_element = 17
+#first_rx_element = 12
+#last_rx_element = 18
+first_rx_element = 11
+last_rx_element = 19
+#first_rx_element = 10
+#last_rx_element = 20
+#first_rx_element = 9
+#last_rx_element = 21
+#first_rx_element = 8
+#last_rx_element = 22
+#first_rx_element = 7
+#last_rx_element = 23
+#first_rx_element = 6
+#last_rx_element = 24
+#first_rx_element = 5
+#last_rx_element = 25
+#first_rx_element = 4
+#last_rx_element = 26
+#first_rx_element = 3
+#last_rx_element = 27
+#first_rx_element = 2
+#last_rx_element = 28
+#first_rx_element = 1
+#last_rx_element = 29
+#first_rx_element = 0
+#last_rx_element = 30
+
+# The excitation waveform's peak is reached at peakOffset periods (center freq.) after the start time.
+peak_offset = 3.03
