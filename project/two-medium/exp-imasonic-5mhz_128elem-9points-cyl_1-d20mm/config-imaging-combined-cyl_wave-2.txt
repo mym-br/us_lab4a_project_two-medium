@@ -11,7 +11,7 @@ rx_apod_file = ../data/apod32_trapez_8-16-8
 #rx_apod_file = ../data/apod32_rectangular
 
 #
-upsampling_factor = 1
+upsampling_factor = 4
 
 # The excitation waveform's peak is reached at peakOffset periods (center freq.) after the start time.
 peak_offset = 3.03
