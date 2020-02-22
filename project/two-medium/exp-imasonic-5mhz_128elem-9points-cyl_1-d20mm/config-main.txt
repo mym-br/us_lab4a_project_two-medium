@@ -21,6 +21,7 @@ max_frequency = 10.0e6
 num_pulses = 1
 
 # (s)
+#acquisition_time = 70.0e-6
 acquisition_time = 100.0e-6
 
 # 0 - 48 (dB)
