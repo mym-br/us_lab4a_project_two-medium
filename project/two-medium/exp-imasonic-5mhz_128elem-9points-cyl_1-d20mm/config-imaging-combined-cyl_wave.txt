@@ -1,9 +1,9 @@
 
-saved_acquisition_dir = ../saved_acquisition/cyl_1/d15mm/9points
+saved_acquisition_dir = ../saved_acquisition/cyl_1/d20mm/9points
 
 output_dir = output
 
-image_dir = output-combined_cyl_wave_3
+image_dir = output-combined_cyl_wave
 
 #rx_apod_file = ../data/apod32_trapez_7-18-7
 rx_apod_file = ../data/apod32_trapez_8-16-8
@@ -20,7 +20,7 @@ peak_offset = 3.03
 max_fermat_block_size = 10
 
 # (m)
-normalization_min_z = 25.0e-3
+normalization_min_z = 30.0e-3
 
 #
 num_base_elem_steps = 9
