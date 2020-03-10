@@ -3,8 +3,6 @@ saved_acquisition_dir = ../saved_acquisition/cyl_1/d40mm/9points
 
 output_dir = output
 
-image_dir = output-combined_cyl_wave
-
 #rx_apod_file = ../data/apod32_trapez_7-18-7
 rx_apod_file = ../data/apod32_trapez_8-16-8
 #rx_apod_file = ../data/apod32_trapez_9-14-9

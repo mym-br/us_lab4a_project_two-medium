@@ -5,3 +5,4 @@ main_config_file = config-main.txt
 method_config_file = config-imaging-combined-cyl_wave.txt
 grid_config_file = config-grid-final-combined.txt
 coherence_factor_config_file = config-coherence_factor-final.txt
+image_dir = output-combined-cyl_wave
