@@ -29,7 +29,7 @@ min_gain = 6.0
 # 0 - 48 (dB)
 max_gain = 6.0
 
-# (m/s) [T = 21.91 °C]
+# (m/s) [T = 21.91 degC]
 propagation_speed_1 = 1488.10
 # Measured:
 #propagation_speed_1 = 1491.70
