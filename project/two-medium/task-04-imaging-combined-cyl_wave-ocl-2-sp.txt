@@ -1,0 +1,8 @@
+
+method = cylinder_detection_and_fermat_two_medium_imaging_combined_cyl_wave_ocl_2_sp
+
+main_config_file = config-main.txt
+method_config_file = config-imaging-combined-cyl_wave.txt
+grid_config_file = config-grid-final-combined.txt
+coherence_factor_config_file = config-coherence_factor-final.txt
+image_dir = output-combined-cyl_wave-ocl-2
